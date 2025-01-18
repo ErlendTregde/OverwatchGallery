@@ -1,8 +1,4 @@
-Here's a professional and informative README for your **Overwatch Gallery** project:
 
----
-
-```markdown
 # Overwatch Character Gallery
 
 A modern web application showcasing a gallery of Overwatch characters, built using **Nuxt 3** and **Vuetify**. Each character card links to a detailed page with additional information about the character.
