@@ -30,6 +30,5 @@ Live demo not working currently, problems with how the images, and other overwat
 
 - **Overwatch API** by [TimoMak](https://timomak.github.io/Overwatch-API/) for providing the character data.
 - **Vuetify** for the beautiful UI components.
-- **Nuxt 3** for the framework powering this project.
-```
+
 
