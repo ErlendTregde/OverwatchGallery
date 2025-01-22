@@ -5,6 +5,8 @@ A modern web application showcasing a gallery of Overwatch characters, built usi
 
 [Live Demo](https://ErlendTregde.github.io/OverwatchGallery/)
 
+Live demo not working currently, problems with how the images, and other overwatch data are displayed
+
 ---
 
 ## Features
